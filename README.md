@@ -1,7 +1,9 @@
 # LuxeCart | Modern Luxury E-Commerce Platform
 
 A premium, production-based e-commerce platform designed to deliver a seamless and luxurious shopping experience. This project demonstrates a full-stack web application complete with a secure admin panel, user authentication, a dynamic product catalog with advanced filtering and sorting, a robust cart and checkout flow, and payment gateway integration.
-![LuxeCart Storefront Preview](./screenshot.png)
+
+![LuxeCart Storefront Preview](https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcQwq8_obmQicvI78MJ4sZdu6dhwFEolO5zHiVscv6Q4-StPBnv7kPfNIjI2tyUEZ9qnf8m-V1-DtS7fXZ0)
+
 ## Live Demo
 Experience the platform live: **[LuxeCart Live Storefront](https://luxecart-ecommerce-demo.vercel.app/)**
 
